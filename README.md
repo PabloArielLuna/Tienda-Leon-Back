@@ -195,7 +195,7 @@ Authorization: Bearer <token>
 
  Tests automatizados (opcional)
 
- Deploy en Render/Netlify (opcional)
+ Deploy en Vercel
 
 👨‍💻 Autor
 
